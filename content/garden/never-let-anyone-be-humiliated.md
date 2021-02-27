@@ -1,6 +1,9 @@
 ---
-Never let anyone be humiliated
+title: Never let anyone be humiliated
+tags: [ "quote", "Elie Wiesel", "hate"]
 ---
+
+# Never let anyone be humiliated
 
 >Never allow anyone to be humiliated in your presence. Whatever has happened in the past, we must deal with those who are here now
 
